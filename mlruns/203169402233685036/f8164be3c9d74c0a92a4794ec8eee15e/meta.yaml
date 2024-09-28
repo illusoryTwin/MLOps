@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/lab3/mlruns/203169402233685036/f8164be3c9d74c0a92a4794ec8eee15e/artifacts
+end_time: 1727005844183
+entry_point_name: ''
+experiment_id: '203169402233685036'
+lifecycle_stage: active
+run_id: f8164be3c9d74c0a92a4794ec8eee15e
+run_name: resilient-bug-798
+run_uuid: f8164be3c9d74c0a92a4794ec8eee15e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005824273
+status: 3
+tags: []
+user_id: kate

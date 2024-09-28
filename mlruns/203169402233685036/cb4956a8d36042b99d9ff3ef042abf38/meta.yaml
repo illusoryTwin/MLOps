@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/lab3/mlruns/203169402233685036/cb4956a8d36042b99d9ff3ef042abf38/artifacts
+end_time: 1727006646149
+entry_point_name: ''
+experiment_id: '203169402233685036'
+lifecycle_stage: active
+run_id: cb4956a8d36042b99d9ff3ef042abf38
+run_name: salty-croc-405
+run_uuid: cb4956a8d36042b99d9ff3ef042abf38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727006625540
+status: 3
+tags: []
+user_id: kate

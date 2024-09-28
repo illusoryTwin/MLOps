@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/0350e2b4de7a4f9297dfb0aa7f1575ed/artifacts
+end_time: 1727005739351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0350e2b4de7a4f9297dfb0aa7f1575ed
+run_name: mysterious-rat-452
+run_uuid: 0350e2b4de7a4f9297dfb0aa7f1575ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005720120
+status: 3
+tags: []
+user_id: kate

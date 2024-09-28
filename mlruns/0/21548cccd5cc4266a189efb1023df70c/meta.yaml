@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/21548cccd5cc4266a189efb1023df70c/artifacts
+end_time: 1727005790655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21548cccd5cc4266a189efb1023df70c
+run_name: nebulous-sponge-610
+run_uuid: 21548cccd5cc4266a189efb1023df70c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005770887
+status: 3
+tags: []
+user_id: kate

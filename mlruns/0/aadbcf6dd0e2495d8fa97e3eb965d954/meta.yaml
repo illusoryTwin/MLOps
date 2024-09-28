@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/aadbcf6dd0e2495d8fa97e3eb965d954/artifacts
+end_time: 1727005824190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aadbcf6dd0e2495d8fa97e3eb965d954
+run_name: unique-midge-709
+run_uuid: aadbcf6dd0e2495d8fa97e3eb965d954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005804493
+status: 3
+tags: []
+user_id: kate

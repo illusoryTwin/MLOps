@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/c0406ebbdb3343d78dae959064f0dad4/artifacts
+end_time: 1726817720976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0406ebbdb3343d78dae959064f0dad4
+run_name: suave-loon-277
+run_uuid: c0406ebbdb3343d78dae959064f0dad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726817719263
+status: 3
+tags: []
+user_id: kate

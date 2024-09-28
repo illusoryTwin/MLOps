@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/00e66975f1694021b0d097e7641aef7f/artifacts
+end_time: 1727005739351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00e66975f1694021b0d097e7641aef7f
+run_name: sneaky-mare-172
+run_uuid: 00e66975f1694021b0d097e7641aef7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005720120
+status: 3
+tags: []
+user_id: kate

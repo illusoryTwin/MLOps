@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/7fb1efd3e56440b2aaaacdf5f5d7dcdb/artifacts
+end_time: 1726820160503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fb1efd3e56440b2aaaacdf5f5d7dcdb
+run_name: righteous-foal-91
+run_uuid: 7fb1efd3e56440b2aaaacdf5f5d7dcdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820160497
+status: 4
+tags: []
+user_id: kate

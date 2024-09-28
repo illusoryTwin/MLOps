@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/0b50795f0d8045c78a43a2f53ff1c4e4/artifacts
+end_time: 1727006625441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b50795f0d8045c78a43a2f53ff1c4e4
+run_name: hilarious-rook-159
+run_uuid: 0b50795f0d8045c78a43a2f53ff1c4e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727006604980
+status: 3
+tags: []
+user_id: kate

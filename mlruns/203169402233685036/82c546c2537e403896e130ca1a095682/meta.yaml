@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/lab3/mlruns/203169402233685036/82c546c2537e403896e130ca1a095682/artifacts
+end_time: 1727006646149
+entry_point_name: ''
+experiment_id: '203169402233685036'
+lifecycle_stage: active
+run_id: 82c546c2537e403896e130ca1a095682
+run_name: stylish-crane-737
+run_uuid: 82c546c2537e403896e130ca1a095682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727006625540
+status: 3
+tags: []
+user_id: kate

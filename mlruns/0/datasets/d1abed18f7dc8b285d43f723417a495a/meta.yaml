@@ -1,0 +1,11 @@
+digest: 6f0e21ad
+name: dataset
+profile: '{"features_shape": [120, 4], "features_size": 480, "features_nbytes": 3840,
+  "targets_shape": [30, 4], "targets_size": 120, "targets_nbytes": 960}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 4]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1, 4]}}]"}}'
+source: '{"tags": {"mlflow.user": "kate", "mlflow.source.name": "/home/kate/Workspace/Studies/3d
+  year/PMLDL/lab3/main.py", "mlflow.source.type": "LOCAL", "mlflow.source.git.commit":
+  "c83612d2f548b3f04cb2db6ef28f954823e199bd"}}'
+source_type: code

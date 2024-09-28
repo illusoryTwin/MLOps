@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/4d05ea905c0c4ac0a9b5c009ab2a1323/artifacts
+end_time: 1727007214942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d05ea905c0c4ac0a9b5c009ab2a1323
+run_name: gaudy-kite-825
+run_uuid: 4d05ea905c0c4ac0a9b5c009ab2a1323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727007195596
+status: 3
+tags: []
+user_id: kate

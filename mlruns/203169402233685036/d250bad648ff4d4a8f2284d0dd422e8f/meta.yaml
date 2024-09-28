@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/lab3/mlruns/203169402233685036/d250bad648ff4d4a8f2284d0dd422e8f/artifacts
+end_time: 1727005844183
+entry_point_name: ''
+experiment_id: '203169402233685036'
+lifecycle_stage: active
+run_id: d250bad648ff4d4a8f2284d0dd422e8f
+run_name: charming-kit-544
+run_uuid: d250bad648ff4d4a8f2284d0dd422e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005824273
+status: 3
+tags: []
+user_id: kate

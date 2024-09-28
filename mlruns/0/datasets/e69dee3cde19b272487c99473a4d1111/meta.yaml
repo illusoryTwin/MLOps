@@ -1,0 +1,12 @@
+digest: 147390a8
+name: dataset
+profile: '{"num_rows": 748, "num_elements": 5236}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Make", "required": true}, {"type":
+  "long", "name": "Model", "required": true}, {"type": "long", "name": "Vehicle_Class",
+  "required": true}, {"type": "double", "name": "Engine_Size", "required": true},
+  {"type": "long", "name": "Transmission", "required": true}, {"type": "double", "name":
+  "Fuel_Consumption_in_City", "required": true}, {"type": "long", "name": "Smog_Level",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "kate", "mlflow.source.name": "/home/kate/Workspace/Studies/3d_year/PMLDL/lab3/code/models/co2_emission_predict.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "c83612d2f548b3f04cb2db6ef28f954823e199bd"}}'
+source_type: code

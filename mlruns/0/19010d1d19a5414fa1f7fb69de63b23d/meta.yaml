@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/19010d1d19a5414fa1f7fb69de63b23d/artifacts
+end_time: 1727007330085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19010d1d19a5414fa1f7fb69de63b23d
+run_name: shivering-slug-403
+run_uuid: 19010d1d19a5414fa1f7fb69de63b23d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727007311220
+status: 3
+tags: []
+user_id: kate

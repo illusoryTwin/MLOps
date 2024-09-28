@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/d2a330d82b524dfca9a01e238c7a754a/artifacts
+end_time: 1726820066964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2a330d82b524dfca9a01e238c7a754a
+run_name: kindly-skunk-603
+run_uuid: d2a330d82b524dfca9a01e238c7a754a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820066958
+status: 4
+tags: []
+user_id: kate

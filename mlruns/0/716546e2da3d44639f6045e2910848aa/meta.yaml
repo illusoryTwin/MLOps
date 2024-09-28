@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/716546e2da3d44639f6045e2910848aa/artifacts
+end_time: 1726820073360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 716546e2da3d44639f6045e2910848aa
+run_name: aged-cow-908
+run_uuid: 716546e2da3d44639f6045e2910848aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820073351
+status: 4
+tags: []
+user_id: kate

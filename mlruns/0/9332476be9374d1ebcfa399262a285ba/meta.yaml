@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/9332476be9374d1ebcfa399262a285ba/artifacts
+end_time: 1727005790655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9332476be9374d1ebcfa399262a285ba
+run_name: bedecked-bear-17
+run_uuid: 9332476be9374d1ebcfa399262a285ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005770887
+status: 3
+tags: []
+user_id: kate

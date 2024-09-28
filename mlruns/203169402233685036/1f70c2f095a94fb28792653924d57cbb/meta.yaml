@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/lab3/mlruns/203169402233685036/1f70c2f095a94fb28792653924d57cbb/artifacts
+end_time: 1727006646149
+entry_point_name: ''
+experiment_id: '203169402233685036'
+lifecycle_stage: active
+run_id: 1f70c2f095a94fb28792653924d57cbb
+run_name: treasured-grub-351
+run_uuid: 1f70c2f095a94fb28792653924d57cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727006625540
+status: 3
+tags: []
+user_id: kate

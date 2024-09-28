@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/34c8021aa0514ecd81e05f3b00fe8c81/artifacts
+end_time: 1727004966652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34c8021aa0514ecd81e05f3b00fe8c81
+run_name: colorful-horse-339
+run_uuid: 34c8021aa0514ecd81e05f3b00fe8c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727004946755
+status: 3
+tags: []
+user_id: kate

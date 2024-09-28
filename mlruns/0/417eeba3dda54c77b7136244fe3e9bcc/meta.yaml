@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/417eeba3dda54c77b7136244fe3e9bcc/artifacts
+end_time: 1727005824190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 417eeba3dda54c77b7136244fe3e9bcc
+run_name: zealous-gnu-422
+run_uuid: 417eeba3dda54c77b7136244fe3e9bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005804493
+status: 3
+tags: []
+user_id: kate

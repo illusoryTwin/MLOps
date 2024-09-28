@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/b3e821f429b3464a9a75f2669a1bf22b/artifacts
+end_time: 1727005790655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3e821f429b3464a9a75f2669a1bf22b
+run_name: dazzling-hog-987
+run_uuid: b3e821f429b3464a9a75f2669a1bf22b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005770887
+status: 3
+tags: []
+user_id: kate

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/886b2cf54e3a4b349dc753aefe8a19ba/artifacts
+end_time: 1727007330085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 886b2cf54e3a4b349dc753aefe8a19ba
+run_name: gentle-skink-674
+run_uuid: 886b2cf54e3a4b349dc753aefe8a19ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727007311220
+status: 3
+tags: []
+user_id: kate

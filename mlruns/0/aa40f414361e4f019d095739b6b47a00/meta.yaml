@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/aa40f414361e4f019d095739b6b47a00/artifacts
+end_time: 1726424568771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa40f414361e4f019d095739b6b47a00
+run_name: salty-bat-946
+run_uuid: aa40f414361e4f019d095739b6b47a00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726424566655
+status: 3
+tags: []
+user_id: kate

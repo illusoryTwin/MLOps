@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/ebe419ee61f943a4bb5afbef224e7171/artifacts
+end_time: 1727006625441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebe419ee61f943a4bb5afbef224e7171
+run_name: glamorous-kit-128
+run_uuid: ebe419ee61f943a4bb5afbef224e7171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727006604980
+status: 3
+tags: []
+user_id: kate

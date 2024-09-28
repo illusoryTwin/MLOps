@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/be319f6c1651496d885d55419d194e1f/artifacts
+end_time: 1727007330160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be319f6c1651496d885d55419d194e1f
+run_name: rebellious-hawk-416
+run_uuid: be319f6c1651496d885d55419d194e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727007311220
+status: 3
+tags: []
+user_id: kate

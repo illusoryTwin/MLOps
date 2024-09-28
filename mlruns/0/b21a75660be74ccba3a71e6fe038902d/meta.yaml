@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/b21a75660be74ccba3a71e6fe038902d/artifacts
+end_time: 1727007330085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b21a75660be74ccba3a71e6fe038902d
+run_name: awesome-pug-877
+run_uuid: b21a75660be74ccba3a71e6fe038902d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727007311220
+status: 3
+tags: []
+user_id: kate

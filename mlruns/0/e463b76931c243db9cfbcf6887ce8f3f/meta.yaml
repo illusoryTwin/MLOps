@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/e463b76931c243db9cfbcf6887ce8f3f/artifacts
+end_time: 1727007330085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e463b76931c243db9cfbcf6887ce8f3f
+run_name: inquisitive-asp-748
+run_uuid: e463b76931c243db9cfbcf6887ce8f3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727007311220
+status: 3
+tags: []
+user_id: kate

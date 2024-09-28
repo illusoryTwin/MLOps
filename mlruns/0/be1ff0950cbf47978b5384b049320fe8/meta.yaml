@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/be1ff0950cbf47978b5384b049320fe8/artifacts
+end_time: 1727007214942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be1ff0950cbf47978b5384b049320fe8
+run_name: defiant-fly-896
+run_uuid: be1ff0950cbf47978b5384b049320fe8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727007195596
+status: 3
+tags: []
+user_id: kate

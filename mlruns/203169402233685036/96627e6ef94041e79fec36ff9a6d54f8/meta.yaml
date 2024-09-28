@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/lab3/mlruns/203169402233685036/96627e6ef94041e79fec36ff9a6d54f8/artifacts
+end_time: 1727006646149
+entry_point_name: ''
+experiment_id: '203169402233685036'
+lifecycle_stage: active
+run_id: 96627e6ef94041e79fec36ff9a6d54f8
+run_name: wise-fox-426
+run_uuid: 96627e6ef94041e79fec36ff9a6d54f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727006625540
+status: 3
+tags: []
+user_id: kate

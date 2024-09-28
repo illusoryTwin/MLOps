@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/309832f6b1744c729a331123623278c4/artifacts
+end_time: 1727005790736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 309832f6b1744c729a331123623278c4
+run_name: dashing-mink-401
+run_uuid: 309832f6b1744c729a331123623278c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005770887
+status: 3
+tags: []
+user_id: kate

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d_year/PMLDL/lab3/mlruns/203169402233685036/7402aa38cfcd43e986f4b61c507eeef4/artifacts
+end_time: 1727005844183
+entry_point_name: ''
+experiment_id: '203169402233685036'
+lifecycle_stage: active
+run_id: 7402aa38cfcd43e986f4b61c507eeef4
+run_name: fortunate-horse-394
+run_uuid: 7402aa38cfcd43e986f4b61c507eeef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005824273
+status: 3
+tags: []
+user_id: kate

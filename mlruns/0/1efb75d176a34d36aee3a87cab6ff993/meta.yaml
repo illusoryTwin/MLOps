@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/1efb75d176a34d36aee3a87cab6ff993/artifacts
+end_time: 1727005790655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1efb75d176a34d36aee3a87cab6ff993
+run_name: dashing-ant-656
+run_uuid: 1efb75d176a34d36aee3a87cab6ff993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005770887
+status: 3
+tags: []
+user_id: kate

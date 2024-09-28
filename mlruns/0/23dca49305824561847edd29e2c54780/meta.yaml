@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/23dca49305824561847edd29e2c54780/artifacts
+end_time: 1726819999918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23dca49305824561847edd29e2c54780
+run_name: overjoyed-mink-673
+run_uuid: 23dca49305824561847edd29e2c54780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726819999908
+status: 4
+tags: []
+user_id: kate

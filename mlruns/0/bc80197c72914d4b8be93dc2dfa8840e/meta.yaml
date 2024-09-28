@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/bc80197c72914d4b8be93dc2dfa8840e/artifacts
+end_time: 1727005824265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc80197c72914d4b8be93dc2dfa8840e
+run_name: bemused-mule-305
+run_uuid: bc80197c72914d4b8be93dc2dfa8840e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005804493
+status: 3
+tags: []
+user_id: kate

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kate/Workspace/Studies/3d%20year/PMLDL/lab3/mlruns/0/6d2b3a9c50d243218716f7557b9e410f/artifacts
+end_time: 1727005824190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d2b3a9c50d243218716f7557b9e410f
+run_name: secretive-boar-297
+run_uuid: 6d2b3a9c50d243218716f7557b9e410f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727005804493
+status: 3
+tags: []
+user_id: kate
