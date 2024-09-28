@@ -3,8 +3,7 @@ import pandas as pd
 import mlflow.sklearn 
 from pydantic import BaseModel
 from sklearn.preprocessing import LabelEncoder
-# import codde
-from codde.models.preprocessing import Preprocessor # type: ig/nore
+from code.models.preprocessing import Preprocessor # type: ignore
 
 # Load the trained model
 app = FastAPI()

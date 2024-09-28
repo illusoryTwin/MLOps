@@ -11,7 +11,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 mlflow.autolog()
 
-data = pd.read_csv('../datasets/CO2_emission.csv')
+data = pd.read_csv('code/datasets/CO2_emission.csv')
 
 # def preprocess_input(input_data: pd.DataFrame) -> pd.DataFrame:
 #     input_data.rename(columns={'Fuel_Consumption_in_City(L/100 km)': 'Fuel_Consumption_in_City'}, inplace=True)
