@@ -1,6 +1,7 @@
 # code/preprocessing.py
 
 import pandas as pd
+from pandas import DataFrame
 from sklearn.preprocessing import LabelEncoder
 
 class Preprocessor:
@@ -30,3 +31,22 @@ class Preprocessor:
         input_data = self.num2cat_transform(input_data)
 
         return input_data
+
+
+if __name__== "__main__":
+    data = {
+        "Model_Year": 2021,
+        "Make": "Acura",
+        "Model": "ILX",
+        "Vehicle_Class": "Compact",
+        "Engine_Size": 2.4,
+        "Cylinders": 4,
+        "Transmission": "AM8",
+        "Fuel_Consumption_in_City": 9.9,
+        "Fuel_Consumption_in_City_Hwy": 7,
+        "Fuel_Consumption_comb": 8.6,
+        "Smog_Level": 3
+    }
+    # print(DataFrame([data]).head)
+    print(Preprocessor().preprocess_input(DataFrame([data])))
+    print(Preprocessor().num2cat_transform(DataFrame([data])))
