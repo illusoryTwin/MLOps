@@ -3,7 +3,7 @@ import requests
 import json
 
 # FastAPI backend URL
-api_url = "http://127.0.0.1:8000/predict"
+api_url = "http://fastapi:8000/predict"
 
 st.title("CO2 Emissions Prediction")
 

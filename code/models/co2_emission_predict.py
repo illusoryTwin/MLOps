@@ -3,7 +3,6 @@ import mlflow.sklearn
 import mlflow.exceptions
 from mlflow.models import infer_signature
 import pandas as pd
-import numpy as np
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.preprocessing import LabelEncoder
@@ -11,7 +10,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 mlflow.autolog()
 
-data = pd.read_csv('code/datasets/CO2_emission.csv')
+data = pd.read_csv('codde/datasets/CO2_emission.csv')
 
 # def preprocess_input(input_data: pd.DataFrame) -> pd.DataFrame:
 #     input_data.rename(columns={'Fuel_Consumption_in_City(L/100 km)': 'Fuel_Consumption_in_City'}, inplace=True)

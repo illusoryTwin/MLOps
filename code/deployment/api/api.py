@@ -8,8 +8,8 @@ from code.models.preprocessing import Preprocessor # type: ignore
 # Load the trained model
 app = FastAPI()
 
-model_path = "code/models/co2_emission_model"
-
+# model_path = "code/models/co2_emission_model"
+model_path = "models/co2_emission_model"
 
 model = mlflow.sklearn.load_model(model_path)
 
